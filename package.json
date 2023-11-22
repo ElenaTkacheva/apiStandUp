@@ -1,0 +1,16 @@
+{
+  "name": "apistandup",
+  "version": "1.0.0",
+  "description": "api для сервиса регистрации на концерты",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "author": "Elena Tkacheva",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
